@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **suyashgaurav72@gmail.com**
 
-- ⚡ Fun fact **I love solving puzzles and brain teasers in my free time.**
+- ⚡ Fun fact **Instead of trying to solve problems, I try to avoid them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
