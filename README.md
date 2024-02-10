@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Blindspot in computer vision models (Gen AI) (R&D)](https://github.com/SuyashGaurav/blindspots-geometry)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently exploring **Generative AI**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
