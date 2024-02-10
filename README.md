@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashgaurav" alt="suyashgaurav" /></a> </p>
 
-- 🔭 I’m currently working on [Federated-Learning-Online-Main](https://github.com/SuyashGaurav/Federated-Learning-Online-Main)
+- 🔭 I’m currently working on [Blindspot in computer vision models (Gen AI) (R&D)]([https://github.com/SuyashGaurav/blindspots-geometry])
 
-- 🌱 I’m currently learning **Java, SQL**
+- 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
