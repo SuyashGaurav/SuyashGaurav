@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/3992595e-d7ba-487c-b6d9-02bb5686d29a)](https://github.com/SuyashGaurav)
+[![MasterHead](https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/bb0b6238-dafc-4a68-8e8b-ec6defe466c1)](https://github.com/SuyashGaurav)
 
 
 <h1 align="center">Hi 👋, I'm Suyash Gaurav.</h1>
