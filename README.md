@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashgaurav" alt="suyashgaurav" /></a> </p>
 
-<br>
+<hr color="white">
 <br>
 
 - 🔭 I’m currently working on [Adversarial Attacks and Defence](https://github.com/SuyashGaurav/Adversarial_Attacks_R-D)
