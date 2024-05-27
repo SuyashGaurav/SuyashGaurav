@@ -18,6 +18,11 @@
 <a href="https://auth.geeksforgeeks.org/user/suyashgaurav72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suyashgaurav72" height="30" width="40" /></a>
 </p>
 
+
+<a href='https://linkedin.com/in/suyash-gaurav-8469a9223'><img align='left' alt="linkedin" src="https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/a79141f0-d250-48ec-b0b4-67e13a338d1d" height='18px'/></a>
+<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
