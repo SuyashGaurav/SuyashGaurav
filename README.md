@@ -1,9 +1,5 @@
 [![MasterHead](https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/bb0b6238-dafc-4a68-8e8b-ec6defe466c1)](https://github.com/SuyashGaurav)
-
-
-<div>
-  ![Black Modern Personal LinkedIn Banner (3)](https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/2bc27e9b-bc4c-4e1b-b0d8-9958c88ab818)
-</div>
+![Black Modern Personal LinkedIn Banner (3)](https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/2bc27e9b-bc4c-4e1b-b0d8-9958c88ab818)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="suyashgaurav" /> </p>
 
