@@ -1,5 +1,7 @@
 [![MasterHead](https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/bb0b6238-dafc-4a68-8e8b-ec6defe466c1)](https://github.com/SuyashGaurav)
 [![Programmer](https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/2bc27e9b-bc4c-4e1b-b0d8-9958c88ab818)](https://github.com/SuyashGaurav)
+<br>
+<hr color="white">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="suyashgaurav" /> </p>
 
@@ -15,6 +17,8 @@
 - ⚡ Fun fact **Instead of trying to solve problems, I try to avoid them.**
 
 <br>
+<hr color="white">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +28,10 @@
 <a href="https://leetcode.com/u/suyashgaurav72/" target="blank"><img align="center" src="https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/2c525076-add6-46ca-9fa2-d9528c1d0327" alt="suyashgaurav72" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<hr color="white">
+<br>
+
+<h3 align="left">Skills:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
