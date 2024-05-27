@@ -32,8 +32,10 @@
 <br>
 
 <h3 align="left">Skills:</h3>
-![Black Modern Personal LinkedIn Banner](https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/c0e3dbe2-ebc4-4617-84c8-b6c7077ce1a0)
+<img align="left" src="https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/c0e3dbe2-ebc4-4617-84c8-b6c7077ce1a0" alt="suyashgaurav" />
 
+<hr color="white">
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashgaurav&show_icons=true&locale=en&layout=compact" alt="suyashgaurav" /></p>
 
