@@ -5,11 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashgaurav" alt="suyashgaurav" /></a> </p>
 
+<br>
+<br>
+
 - 🔭 I’m currently working on [Adversarial Attacks and Defence](https://github.com/SuyashGaurav/Adversarial_Attacks_R-D)
 - 🌱 I’m currently exploring **MERN Stack**
 - 💬 Ask me about **Data Structures and Algorithms**
 - 📫 How to reach me **suyashgaurav72@gmail.com**
 - ⚡ Fun fact **Instead of trying to solve problems, I try to avoid them.**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +23,6 @@
 <a href="https://auth.geeksforgeeks.org/user/suyashgaurav72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suyashgaurav72" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/suyashgaurav72/" target="blank"><img align="center" src="https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/2c525076-add6-46ca-9fa2-d9528c1d0327" alt="suyashgaurav72" height="30" width="40" /></a>
 </p>
-![leetcode]()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
