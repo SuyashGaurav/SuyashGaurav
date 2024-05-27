@@ -34,11 +34,16 @@
 <h3 align="left">Skills:</h3>
 <img align="left" src="https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/c0e3dbe2-ebc4-4617-84c8-b6c7077ce1a0" alt="suyashgaurav" />
 
+<br>
 <hr color="white">
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashgaurav&show_icons=true&locale=en&layout=compact" alt="suyashgaurav" /></p>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyashgaurav&show_icons=true&locale=en" alt="suyashgaurav" /></p>
-
+<br>
+<hr color="white">
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyashgaurav&" alt="suyashgaurav" /></p>
