@@ -1,8 +1,7 @@
 [![MasterHead](https://github.com/SuyashGaurav/SuyashGaurav/assets/102952185/bb0b6238-dafc-4a68-8e8b-ec6defe466c1)](https://github.com/SuyashGaurav)
 
 
-<h1 align="center">Hi 👋, I'm Suyash Gaurav.</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">Currently pursuing a BTech degree in Computer Science and Engineering at IIT Dharwad. I'm a quick learner and collaborate closely with teams to create efficient, scalable, and user-friendly solutions that address real-world challenges. Let's connect and explore how we can grow together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="suyashgaurav" /> </p>
 
