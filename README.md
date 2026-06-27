@@ -10,11 +10,11 @@
 <hr color="white">
 <br>
 
-- 🔭 I’m currently working on [Adversarial Attacks and Defence](https://github.com/SuyashGaurav/Adversarial_Attacks_R-D)
-- 🌱 I’m currently exploring **MERN Stack**
+- 🔭 I’m currently working as Software Engineer @ Uniphore
+- 🌱 I’m currently exploring **Telephony Integrations**
 - 💬 Ask me about **Data Structures and Algorithms**
 - 📫 How to reach me **suyashgaurav72@gmail.com**
-- ⚡ Fun fact **Instead of trying to solve problems, I try to avoid them.**
+- ⚡ Fun fact **If it works on the first try, I start wondering what I missed.**
 
 <br>
 <hr color="white">
